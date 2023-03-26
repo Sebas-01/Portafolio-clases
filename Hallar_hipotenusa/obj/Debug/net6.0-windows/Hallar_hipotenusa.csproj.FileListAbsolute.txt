@@ -1,0 +1,17 @@
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\bin\Debug\net6.0-windows\Hallar_hipotenusa.exe
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\bin\Debug\net6.0-windows\Hallar_hipotenusa.deps.json
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\bin\Debug\net6.0-windows\Hallar_hipotenusa.runtimeconfig.json
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\bin\Debug\net6.0-windows\Hallar_hipotenusa.dll
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\bin\Debug\net6.0-windows\Hallar_hipotenusa.pdb
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\obj\Debug\net6.0-windows\Hallar_hipotenusa.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\obj\Debug\net6.0-windows\Hallar_hipotenusa.Form1.resources
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\obj\Debug\net6.0-windows\Hallar_hipotenusa.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\obj\Debug\net6.0-windows\Hallar_hipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\obj\Debug\net6.0-windows\Hallar_hipotenusa.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\obj\Debug\net6.0-windows\Hallar_hipotenusa.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\obj\Debug\net6.0-windows\Hallar_hipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\obj\Debug\net6.0-windows\Hallar_hipotenusa.dll
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\obj\Debug\net6.0-windows\refint\Hallar_hipotenusa.dll
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\obj\Debug\net6.0-windows\Hallar_hipotenusa.pdb
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\obj\Debug\net6.0-windows\Hallar_hipotenusa.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\Hallar_hipotenusa\Hallar_hipotenusa\obj\Debug\net6.0-windows\ref\Hallar_hipotenusa.dll

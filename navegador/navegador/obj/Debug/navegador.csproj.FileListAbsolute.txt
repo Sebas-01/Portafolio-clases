@@ -1,0 +1,11 @@
+C:\Users\sebas\OneDrive\Desktop\visual studio\navegador\navegador\bin\Debug\navegador.exe.config
+C:\Users\sebas\OneDrive\Desktop\visual studio\navegador\navegador\bin\Debug\navegador.exe
+C:\Users\sebas\OneDrive\Desktop\visual studio\navegador\navegador\bin\Debug\navegador.pdb
+C:\Users\sebas\OneDrive\Desktop\visual studio\navegador\navegador\obj\Debug\navegador.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\navegador\navegador\obj\Debug\navegador.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\navegador\navegador\obj\Debug\navegador.Frm_navegador.resources
+C:\Users\sebas\OneDrive\Desktop\visual studio\navegador\navegador\obj\Debug\navegador.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Desktop\visual studio\navegador\navegador\obj\Debug\navegador.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\navegador\navegador\obj\Debug\navegador.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\navegador\navegador\obj\Debug\navegador.exe
+C:\Users\sebas\OneDrive\Desktop\visual studio\navegador\navegador\obj\Debug\navegador.pdb

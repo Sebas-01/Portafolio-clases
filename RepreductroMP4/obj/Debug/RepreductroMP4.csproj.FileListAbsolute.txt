@@ -1,0 +1,16 @@
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\bin\Debug\RepreductroMP4.exe.config
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\bin\Debug\RepreductroMP4.exe
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\bin\Debug\RepreductroMP4.pdb
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\bin\Debug\Interop.WMPLib.dll
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\obj\Debug\RepreductroMP4.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\obj\Debug\RepreductroMP4.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\obj\Debug\Interop.WMPLib.dll
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\obj\Debug\RepreductroMP4.csproj.ResolveComReference.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\obj\Debug\RepreductroMP4.Form1.resources
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\obj\Debug\RepreductroMP4.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\obj\Debug\RepreductroMP4.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\obj\Debug\RepreductroMP4.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\obj\Debug\RepreductroMP4.exe
+C:\Users\sebas\OneDrive\Desktop\visual studio\RepreductroMP4\RepreductroMP4\obj\Debug\RepreductroMP4.pdb
